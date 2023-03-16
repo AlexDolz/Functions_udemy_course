@@ -1,3 +1,3 @@
-# # Udemy-JS
+# Udemy-JS
 
 # Functions
