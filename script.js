@@ -285,7 +285,7 @@ const boardPassengers = function (n, wait) {
     console.log(`There are 3 groups, each with ${perGroup} passengers`);
   }, wait * 1000);
 
-  console.log(`Will start boarding in ${wait} seconds`);
+  console.log(`Boarding will start in ${wait} seconds`);
 };
 
 const perGroup = 1000;
